@@ -5,11 +5,10 @@
 # === Parameters
 #
 # [*name*]
-#   Weither or not to allow root login via ssh
-#   Valid values: <code>true</code> or <code>false</code>.
-#   Default: false
+#  This is the name of the configuration value that you would like to change   
 #
 # [*value*]
+#  This is the value of the configuration item that you would like to change
 #
 # === Requires
 #
